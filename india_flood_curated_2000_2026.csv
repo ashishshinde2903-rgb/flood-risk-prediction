@@ -1,0 +1,116 @@
+Event_ID,Year,Month,State,District,Flood_Type,River_Name,Rainfall_mm,Rainfall_Category,River_Water_Level_m,Dam_Release,Temperature_C,Soil_Type,Elevation_m,Land_Use,Population_Density,Previous_Flood_History,Main_Cause,People_Affected,Deaths,Missing_Persons,Injured,Houses_Damaged,Crop_Loss_Hectares,Severity
+FLD0001,2000,7,Assam,Dhemaji,River Flood,Brahmaputra,280,Heavy,9.8,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0002,2000,7,Assam,Barpeta,River Flood,Brahmaputra,260,Heavy,9.5,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0003,2000,8,Bihar,Purnia,River Flood,Kosi,270,Heavy,7.2,No,29,Alluvial,45,Agricultural,1250,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0004,2000,8,Bihar,Darbhanga,River Flood,Bagmati,250,Heavy,6.8,No,29,Alluvial,50,Agricultural,1600,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0005,2000,8,West Bengal,Malda,River Flood,Ganga,240,Heavy,8.1,No,30,Alluvial,25,Agricultural,1100,Yes,River Overflow,45000,8,1,15,3000,1200,Medium
+FLD0006,2000,8,Uttar Pradesh,Ballia,River Flood,Ghaghara,230,Heavy,6.5,No,30,Alluvial,65,Agricultural,1150,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0007,2001,7,Assam,Dhemaji,River Flood,Brahmaputra,255,Heavy,9.4,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0008,2001,8,Bihar,Katihar,River Flood,Ganga,245,Heavy,7.0,No,29,Alluvial,40,Agricultural,1300,Yes,River Overflow,45000,8,1,15,3000,1200,Medium
+FLD0009,2002,7,Assam,Barpeta,River Flood,Brahmaputra,235,Heavy,9.0,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0010,2002,8,Bihar,Samastipur,River Flood,Bagmati,220,Heavy,6.4,No,29,Alluvial,48,Agricultural,1550,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0011,2003,7,Assam,Dibrugarh,River Flood,Brahmaputra,260,Heavy,9.6,No,28,Alluvial,108,Agricultural,450,Yes,River Overflow,45000,8,1,15,3000,1200,Medium
+FLD0012,2003,8,Bihar,Muzaffarpur,River Flood,Bagmati,250,Heavy,6.9,No,29,Alluvial,52,Agricultural,1750,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0013,2004,7,Bihar,Purnia,River Flood,Kosi,340,Extreme,7.8,No,29,Alluvial,45,Agricultural,1250,Yes,River Overflow,1200000,180,15,220,45000,22000,Extreme
+FLD0014,2004,7,Bihar,Katihar,River Flood,Ganga,320,Extreme,7.5,No,29,Alluvial,40,Agricultural,1300,Yes,River Overflow,900000,140,10,180,35000,18000,Extreme
+FLD0015,2004,7,Bihar,Darbhanga,River Flood,Bagmati,310,Extreme,7.0,No,29,Alluvial,50,Agricultural,1600,Yes,Heavy Monsoon Rainfall,850000,120,8,160,32000,16000,Extreme
+FLD0016,2004,7,Assam,Dhemaji,River Flood,Brahmaputra,330,Extreme,10.2,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,700000,90,6,140,26000,14000,Extreme
+FLD0017,2004,8,Uttar Pradesh,Gorakhpur,River Flood,Rapti,290,Heavy,6.9,No,30,Alluvial,77,Agricultural,1310,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0018,2005,7,Maharashtra,Mumbai Suburban,Urban Flood,Mithi,944,Extreme,4.8,No,27,Alluvial,14,Urban,21000,No,Poor Drainage,2000000,1094,0,350,12000,200,Extreme
+FLD0019,2005,7,Assam,Dhemaji,River Flood,Brahmaputra,250,Heavy,9.3,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0020,2005,8,Bihar,Purnia,River Flood,Kosi,245,Heavy,7.1,No,29,Alluvial,45,Agricultural,1250,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0021,2006,8,Gujarat,Surat,Dam Release Flood,Tapi,310,Extreme,11.5,Yes,31,Black,13,Urban,6500,Yes,Dam Water Release,1200000,150,5,300,18000,8000,Extreme
+FLD0022,2006,7,Assam,Barpeta,River Flood,Brahmaputra,240,Heavy,9.1,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0023,2006,8,Bihar,Darbhanga,River Flood,Bagmati,235,Heavy,6.7,No,29,Alluvial,50,Agricultural,1600,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0024,2007,7,Bihar,Araria,River Flood,Kosi,320,Extreme,7.6,No,29,Alluvial,42,Agricultural,1450,Yes,River Overflow,980000,150,12,200,38000,19000,Extreme
+FLD0025,2007,7,Bihar,Supaul,River Flood,Kosi,310,Extreme,7.4,No,29,Alluvial,45,Agricultural,1350,Yes,River Overflow,750000,110,8,160,30000,15000,Extreme
+FLD0026,2007,7,Assam,Dhemaji,River Flood,Brahmaputra,300,Extreme,9.9,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0027,2007,8,Uttar Pradesh,Gorakhpur,River Flood,Rapti,280,Heavy,6.8,No,30,Alluvial,77,Agricultural,1310,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0028,2008,8,Bihar,Supaul,River Flood,Kosi,380,Extreme,8.9,No,29,Alluvial,45,Agricultural,1350,Yes,Embankment Failure,3300000,527,45,650,95000,34000,Extreme
+FLD0029,2008,8,Bihar,Saharsa,River Flood,Kosi,370,Extreme,8.5,No,29,Alluvial,42,Agricultural,1580,Yes,Embankment Failure,1200000,180,15,250,40000,16000,Extreme
+FLD0030,2008,8,Bihar,Madhubani,River Flood,Kosi,360,Extreme,8.2,No,29,Alluvial,48,Agricultural,1620,Yes,River Overflow,950000,140,10,190,32000,13000,Extreme
+FLD0031,2008,8,Bihar,Araria,River Flood,Kosi,350,Extreme,8.0,No,29,Alluvial,42,Agricultural,1450,Yes,River Overflow,880000,120,8,170,28000,12000,Extreme
+FLD0032,2009,7,Assam,Barpeta,River Flood,Brahmaputra,210,Heavy,8.7,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0033,2009,8,Bihar,Muzaffarpur,River Flood,Bagmati,200,Heavy,6.2,No,29,Alluvial,52,Agricultural,1750,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0034,2010,8,Ladakh,Leh,Flash Flood,Indus,65,Heavy,2.4,No,15,Sandy,3500,Forest,3,No,Cloudburst,9000,193,400,180,1400,150,Extreme
+FLD0035,2010,7,Assam,Dhemaji,River Flood,Brahmaputra,290,Heavy,9.7,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0036,2010,7,Assam,Dibrugarh,River Flood,Brahmaputra,270,Heavy,9.4,No,28,Alluvial,108,Agricultural,450,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0037,2011,7,Assam,Barpeta,River Flood,Brahmaputra,250,Heavy,9.2,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0038,2011,8,Bihar,Darbhanga,River Flood,Bagmati,230,Heavy,6.6,No,29,Alluvial,50,Agricultural,1600,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0039,2012,6,Assam,Dhemaji,River Flood,Brahmaputra,310,Extreme,10.1,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,1500000,124,10,210,42000,20000,Extreme
+FLD0040,2012,7,Assam,Morigaon,River Flood,Brahmaputra,295,Heavy,9.8,No,28,Alluvial,50,Agricultural,700,Yes,River Overflow,680000,55,5,95,19000,9500,Extreme
+FLD0041,2012,7,Assam,Nagaon,River Flood,Kopili,280,Heavy,8.9,No,28,Alluvial,55,Agricultural,900,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0042,2012,8,Bihar,Purnia,River Flood,Kosi,260,Heavy,7.2,No,29,Alluvial,45,Agricultural,1250,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0043,2013,6,Uttarakhand,Rudraprayag,Flash Flood,Mandakini,340,Extreme,3.8,No,14,Loamy,895,Forest,180,Yes,Cloudburst,110000,4400,3000,1200,5000,800,Extreme
+FLD0044,2013,6,Uttarakhand,Chamoli,Flash Flood,Alaknanda,320,Extreme,3.6,No,13,Loamy,960,Forest,95,Yes,Cloudburst,45000,650,250,400,1800,350,Extreme
+FLD0045,2013,6,Uttarakhand,Uttarkashi,Flash Flood,Bhagirathi,300,Extreme,3.4,No,14,Loamy,1150,Forest,75,No,Cloudburst,30000,180,90,250,1200,200,Extreme
+FLD0046,2013,7,Assam,Dhemaji,River Flood,Brahmaputra,270,Heavy,9.3,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0047,2014,9,Jammu and Kashmir,Srinagar,River Flood,Jhelum,310,Extreme,7.9,No,18,Loamy,1585,Urban,1750,No,River Overflow,1100000,175,20,450,25000,9000,Extreme
+FLD0048,2014,9,Jammu and Kashmir,Anantnag,River Flood,Jhelum,290,Heavy,7.5,No,17,Loamy,1620,Agricultural,650,No,River Overflow,350000,62,8,140,9000,4500,Extreme
+FLD0049,2014,9,Jammu and Kashmir,Bandipore,River Flood,Jhelum,270,Heavy,7.0,No,16,Loamy,1780,Agricultural,400,No,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0050,2014,7,Assam,Barpeta,River Flood,Brahmaputra,245,Heavy,9.0,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0051,2015,12,Tamil Nadu,Chennai,Urban Flood,Adyar,494,Extreme,3.2,Yes,24,Alluvial,6,Urban,26000,No,Dam Water Release,1800000,290,15,520,17000,1200,Extreme
+FLD0052,2015,12,Tamil Nadu,Cuddalore,Coastal Flood,Cauvery,380,Extreme,6.8,No,25,Alluvial,22,Agricultural,850,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0053,2015,7,Assam,Dhemaji,River Flood,Brahmaputra,255,Heavy,9.1,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0054,2016,7,Bihar,Araria,River Flood,Kosi,330,Extreme,7.9,No,29,Alluvial,42,Agricultural,1450,Yes,River Overflow,1700000,210,18,260,48000,24000,Extreme
+FLD0055,2016,7,Bihar,Kishanganj,River Flood,Mahananda,310,Extreme,7.3,No,29,Alluvial,44,Agricultural,1650,Yes,Heavy Monsoon Rainfall,900000,95,8,140,25000,13000,Extreme
+FLD0056,2016,7,Assam,Barpeta,River Flood,Brahmaputra,290,Heavy,9.6,No,28,Alluvial,60,Agricultural,620,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0057,2016,7,Assam,Dhemaji,River Flood,Brahmaputra,280,Heavy,9.4,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0058,2017,8,Bihar,Araria,River Flood,Kosi,340,Extreme,8.1,No,29,Alluvial,42,Agricultural,1450,Yes,River Overflow,1900000,280,20,310,52000,27000,Extreme
+FLD0059,2017,8,Bihar,Kishanganj,River Flood,Mahananda,320,Extreme,7.6,No,29,Alluvial,44,Agricultural,1650,Yes,River Overflow,1100000,160,12,200,32000,17000,Extreme
+FLD0060,2017,8,Bihar,Purnia,River Flood,Kosi,310,Extreme,7.7,No,29,Alluvial,45,Agricultural,1250,Yes,Heavy Monsoon Rainfall,980000,130,10,180,28000,15000,Extreme
+FLD0061,2017,8,Assam,Dhemaji,River Flood,Brahmaputra,300,Extreme,9.9,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,1200000,140,12,200,34000,18000,Extreme
+FLD0062,2017,8,Assam,Morigaon,River Flood,Brahmaputra,290,Heavy,9.5,No,28,Alluvial,50,Agricultural,700,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0063,2017,7,West Bengal,Malda,River Flood,Ganga,280,Heavy,8.6,No,30,Alluvial,25,Agricultural,1100,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0064,2017,7,Gujarat,Banaskantha,River Flood,Banas,270,Heavy,7.8,No,31,Sandy,150,Agricultural,280,No,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0065,2018,8,Kerala,Idukki,River Flood,Periyar,380,Extreme,9.2,Yes,23,Red,900,Forest,250,No,Dam Water Release,350000,95,15,210,8500,6000,Extreme
+FLD0066,2018,8,Kerala,Wayanad,Flash Flood,Kabini,360,Extreme,6.5,No,22,Red,780,Forest,380,No,Heavy Monsoon Rainfall,280000,70,10,180,7200,5200,Extreme
+FLD0067,2018,8,Kerala,Ernakulam,River Flood,Periyar,340,Extreme,8.8,Yes,26,Alluvial,10,Urban,1050,No,Dam Water Release,650000,110,12,260,12000,4500,Extreme
+FLD0068,2018,8,Kerala,Alappuzha,River Flood,Pamba,320,Extreme,6.2,No,27,Alluvial,2,Wetland,1500,No,Heavy Monsoon Rainfall,480000,65,8,150,9500,7800,Extreme
+FLD0069,2018,8,Kerala,Kottayam,River Flood,Pamba,310,Extreme,6.0,No,26,Alluvial,3,Wetland,900,No,Heavy Monsoon Rainfall,320000,48,5,110,6800,4200,High
+FLD0070,2018,8,Karnataka,Kodagu,Flash Flood,Kaveri,350,Extreme,5.8,No,21,Red,900,Forest,130,No,Landslide,95000,17,6,45,2100,1800,Extreme
+FLD0071,2019,7,Assam,Dhemaji,River Flood,Brahmaputra,310,Extreme,10.0,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,4500000,95,8,170,38000,21000,Extreme
+FLD0072,2019,7,Assam,Barpeta,River Flood,Brahmaputra,295,Heavy,9.7,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,1200000,45,4,90,18000,9500,Extreme
+FLD0073,2019,7,Bihar,Darbhanga,River Flood,Bagmati,280,Heavy,7.3,No,29,Alluvial,50,Agricultural,1600,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0074,2019,7,Bihar,Sitamarhi,River Flood,Bagmati,270,Heavy,7.1,No,29,Alluvial,55,Agricultural,1750,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0075,2019,8,Punjab,Ferozepur,Dam Release Flood,Sutlej,250,Heavy,8.6,Yes,30,Alluvial,180,Agricultural,550,No,Dam Water Release,150000,35,5,60,9000,4500,High
+FLD0076,2020,7,Assam,Dhemaji,River Flood,Brahmaputra,320,Extreme,10.2,No,28,Alluvial,85,Agricultural,480,Yes,River Overflow,2600000,123,10,190,40000,22000,Extreme
+FLD0077,2020,7,Assam,Barpeta,River Flood,Brahmaputra,300,Extreme,9.8,No,28,Alluvial,60,Agricultural,620,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0078,2020,7,Bihar,Darbhanga,River Flood,Bagmati,275,Heavy,7.2,No,29,Alluvial,50,Agricultural,1600,Yes,River Overflow,150000,35,5,60,9000,4500,High
+FLD0079,2020,10,Telangana,Hyderabad,Urban Flood,Musi,320,Extreme,4.5,No,25,Black,542,Urban,18500,Yes,Poor Drainage,1900000,50,3,210,14000,800,Extreme
+FLD0080,2021,7,Maharashtra,Ratnagiri,Flash Flood,Vashishti,350,Extreme,5.6,No,25,Black,8,Agricultural,290,No,Heavy Monsoon Rainfall,220000,90,15,130,6800,3200,Extreme
+FLD0081,2021,7,Maharashtra,Raigad,Flash Flood,Savitri,340,Extreme,5.3,No,25,Black,12,Agricultural,320,No,Landslide,180000,84,10,95,5200,2400,Extreme
+FLD0082,2021,10,Kerala,Kottayam,River Flood,Pamba,300,Extreme,5.9,No,25,Alluvial,3,Wetland,900,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0083,2021,10,Kerala,Idukki,Flash Flood,Periyar,310,Extreme,6.0,Yes,22,Red,900,Forest,250,Yes,Landslide,150000,35,5,60,9000,4500,High
+FLD0084,2021,2,Uttarakhand,Chamoli,Flash Flood,Rishiganga,0,Heavy,2.9,No,4,Loamy,1800,Forest,65,Yes,Glacier Lake Outburst Flood (GLOF),15000,204,140,35,350,100,Extreme
+FLD0085,2022,6,Assam,Silchar,River Flood,Barak,340,Extreme,10.4,No,28,Alluvial,22,Urban,1800,Yes,River Overflow,5500000,192,15,280,44000,23000,Extreme
+FLD0086,2022,6,Assam,Nagaon,River Flood,Kopili,310,Extreme,9.3,No,28,Alluvial,55,Agricultural,900,Yes,Heavy Monsoon Rainfall,1400000,60,6,110,19000,10500,Extreme
+FLD0087,2022,6,Meghalaya,East Khasi Hills,Flash Flood,Umiam,950,Extreme,4.2,No,19,Loamy,1500,Forest,380,Yes,Heavy Monsoon Rainfall,85000,12,3,40,2100,900,Extreme
+FLD0088,2023,7,Himachal Pradesh,Kullu,Flash Flood,Beas,340,Extreme,4.9,Yes,20,Loamy,1220,Forest,120,Yes,Cloudburst,180000,45,25,90,3400,1600,Extreme
+FLD0089,2023,7,Himachal Pradesh,Mandi,Flash Flood,Beas,320,Extreme,4.6,No,19,Loamy,1050,Forest,210,Yes,Cloudburst,150000,38,18,70,2800,1300,Extreme
+FLD0090,2023,7,Himachal Pradesh,Shimla,Flash Flood,Sutlej,300,Extreme,4.3,No,18,Loamy,2200,Urban,480,Yes,Landslide,95000,30,12,60,1900,700,Extreme
+FLD0091,2023,7,Punjab,Ferozepur,Dam Release Flood,Sutlej,280,Heavy,9.1,Yes,31,Alluvial,180,Agricultural,550,Yes,Dam Water Release,1200000,42,5,95,16000,12000,Extreme
+FLD0092,2023,7,Haryana,Yamunanagar,River Flood,Yamuna,270,Heavy,8.4,Yes,30,Alluvial,255,Agricultural,900,No,Dam Water Release,150000,35,5,60,9000,4500,High
+FLD0093,2023,7,Delhi,East Delhi,Urban Flood,Yamuna,260,Heavy,8.2,Yes,31,Alluvial,210,Urban,12500,No,River Overflow,150000,35,5,60,9000,4500,High
+FLD0094,2023,7,Assam,Dhemaji,River Flood,Brahmaputra,280,Heavy,9.5,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,45000,8,1,15,3000,1200,Medium
+FLD0095,2023,10,Sikkim,Mangan,Flash Flood,Teesta,90,Heavy,6.5,Yes,8,Loamy,1600,Forest,45,No,Glacier Lake Outburst Flood (GLOF),88000,55,74,45,1200,350,Extreme
+FLD0096,2024,6,Assam,Karimganj,River Flood,Kushiyara,320,Extreme,10.1,No,29,Alluvial,20,Agricultural,750,Yes,River Overflow,400000,45,5,90,12000,9000,Extreme
+FLD0097,2024,6,Assam,Darrang,River Flood,Brahmaputra,300,Extreme,9.9,No,29,Alluvial,65,Agricultural,620,Yes,Heavy Monsoon Rainfall,350000,35,3,75,10000,7500,Extreme
+FLD0098,2024,6,Assam,Dibrugarh,River Flood,Brahmaputra,290,Heavy,9.6,No,29,Alluvial,108,Agricultural,450,Yes,Heavy Monsoon Rainfall,250000,29,2,60,8000,6000,High
+FLD0099,2024,9,Bihar,Purnia,River Flood,Kosi,300,Extreme,7.6,No,30,Alluvial,45,Agricultural,1250,Yes,River Overflow,1500000,55,6,110,30000,18000,Extreme
+FLD0100,2024,9,Bihar,Darbhanga,River Flood,Bagmati,290,Heavy,7.3,No,30,Alluvial,50,Agricultural,1600,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0101,2024,8,Gujarat,Vadodara,River Flood,Vishwamitri,380,Extreme,8.9,No,32,Black,39,Urban,5800,No,Heavy Monsoon Rainfall,800000,28,4,140,14000,9500,Extreme
+FLD0102,2024,8,Tripura,Gomati,River Flood,Gumti,340,Extreme,6.8,No,28,Loamy,25,Agricultural,480,No,Heavy Monsoon Rainfall,650000,32,3,85,9800,7200,Extreme
+FLD0103,2024,8,Tripura,West Tripura,River Flood,Howrah,320,Extreme,6.2,No,28,Alluvial,15,Agricultural,1650,No,Poor Drainage,150000,35,5,60,9000,4500,High
+FLD0104,2025,8,Punjab,Gurdaspur,River Flood,Ravi,310,Extreme,9.4,Yes,31,Alluvial,260,Agricultural,700,Yes,Dam Water Release,900000,22,4,80,15000,13000,Extreme
+FLD0105,2025,8,Punjab,Ferozepur,Dam Release Flood,Sutlej,300,Extreme,9.2,Yes,31,Alluvial,180,Agricultural,550,Yes,Dam Water Release,1100000,18,3,70,17000,15000,Extreme
+FLD0106,2025,8,Punjab,Amritsar,River Flood,Beas,290,Heavy,8.8,Yes,31,Alluvial,234,Urban,1600,Yes,Dam Water Release,750000,15,2,55,11000,9500,Extreme
+FLD0107,2025,7,Assam,Dhemaji,River Flood,Brahmaputra,290,Heavy,9.7,No,28,Alluvial,85,Agricultural,480,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0108,2025,7,Bihar,Purnia,River Flood,Kosi,270,Heavy,7.3,No,29,Alluvial,45,Agricultural,1250,Yes,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0109,2025,8,Rajasthan,Kota,River Flood,Chambal,310,Extreme,8.6,Yes,34,Black,305,Agricultural,560,No,Dam Water Release,280000,18,3,55,6500,8500,Extreme
+FLD0110,2025,8,Gujarat,Junagadh,River Flood,Ozat,300,Extreme,7.9,No,33,Black,107,Agricultural,380,No,Heavy Monsoon Rainfall,150000,35,5,60,9000,4500,High
+FLD0111,2026,7,Assam,Sivasagar,River Flood,Disang,310,Extreme,10.3,No,29,Alluvial,95,Agricultural,520,Yes,River Overflow,380000,22,2,65,11000,8500,Extreme
+FLD0112,2026,7,Assam,Charaideo,River Flood,Brahmaputra,300,Extreme,10.1,No,29,Alluvial,110,Agricultural,480,Yes,River Overflow,290000,19,1,50,8500,6500,Extreme
+FLD0113,2026,7,Assam,Dibrugarh,River Flood,Brahmaputra,295,Heavy,9.9,No,29,Alluvial,108,Agricultural,450,Yes,Heavy Monsoon Rainfall,310000,21,2,55,9200,7000,Extreme
+FLD0114,2026,7,Assam,Golaghat,River Flood,Dhansiri,280,Heavy,9.5,No,29,Alluvial,100,Agricultural,470,Yes,Heavy Monsoon Rainfall,180000,12,1,35,5500,4200,High
+FLD0115,2026,7,Assam,Lakhimpur,River Flood,Brahmaputra,290,Heavy,9.8,No,29,Alluvial,95,Agricultural,500,Yes,River Overflow,210000,8,1,30,6200,4800,Extreme
