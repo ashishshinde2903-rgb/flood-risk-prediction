@@ -143,9 +143,10 @@ flood-risk-prediction/
 ├── requirements.txt
 └── README.md
 
-## ⚙️ How to Run the Project
 
-### 1. Clone the Repository
+⚙️ How to Run the Project
+
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/ashishshinde2903-rgb/flood-risk-prediction.git
