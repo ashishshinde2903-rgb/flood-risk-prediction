@@ -142,3 +142,16 @@ flood-risk-prediction/
 ├── model.pkl
 ├── requirements.txt
 └── README.md
+
+## ⚙️ How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ashishshinde2903-rgb/flood-risk-prediction.git
+
+cd flood-risk-prediction
+
+pip install -r requirements.txt
+
+streamlit run app.py
